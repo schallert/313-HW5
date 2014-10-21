@@ -7,3 +7,4 @@
 5. `vagrant ssh`
 6. `cd /host/etherpad-lite`
 7. `./bin/run.sh`
+8. Visit `http://192.168.33.10:9001`
